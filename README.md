@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React JS HTML CSS BOOTSRAP**
 
 - 📫 How to reach me **sumaiya.noorkahan@gmail.com**
 
